@@ -3,25 +3,23 @@
 
 Komputer 1,3,5,7,9,11,13,15,17
 
-https://forms.office.com/e/2Meh53XsSh
-
 Komputer 2,4,6,8,10,12,14,16
 
-https://forms.office.com/e/zB7fjLCdzk
 
 
 REFERATY:
 
-1. Czym jest sztuczna inteligencja? — definicje, historia i zastosowania
+Referat 1.
 
-2. Czym są API i jak działają.
+Programowanie obiektowe – idea, zastosowanie, zalety i wady
 
-3. Kod źródłowy, kompilator i interpreter – proste wyjaśnienie
+Referat 2
 
-4. Algorytmy sortowania — porównanie działania, złożoności i zastosowań (np. Bubble Sort vs QuickSort).
+Rekurencja w programowaniu – sposób działania, przykłady, zalety i problemy
+
 
 Raferaty na adres:
 lukasz.felisek@ezse.pl
 
 Temat:
-[Imię Nazwisko] Klasa 4E Referat [numer referatu]
+[Imię Nazwisko] Klasa 5E Referat [numer referatu]
