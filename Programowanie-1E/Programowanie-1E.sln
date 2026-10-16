@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.5.33530.505
+# Visual Studio Version 18
+VisualStudioVersion = 18.11.12224.323 insiders
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirstProject", "FirstProject\FirstProject.vcxproj", "{BCFAE11D-70F6-4ACE-8470-AF2EB3683979}"
 EndProject
@@ -122,6 +122,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleRepositoryClassLibrary", "PeopleRepositoryClassLibrary\PeopleRepositoryClassLibrary.csproj", "{5DD4C333-F286-487D-857C-03620CEC45EB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleDatabaseMauiApp", "PeopleDatabaseMauiApp\PeopleDatabaseMauiApp.csproj", "{C0DF72F0-F985-286F-2A33-389E187DB271}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. UnitTests", "03. UnitTests", "{7BAB7722-7625-49BE-A3F4-4ECED2C6B029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderPaymentsConsoleApp", "OrderPaymentsConsoleApp\OrderPaymentsConsoleApp.csproj", "{E1100044-B372-2BEA-232B-43D2C4854AD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -622,6 +626,18 @@ Global
 		{C0DF72F0-F985-286F-2A33-389E187DB271}.Release|x64.Build.0 = Release|Any CPU
 		{C0DF72F0-F985-286F-2A33-389E187DB271}.Release|x86.ActiveCfg = Release|Any CPU
 		{C0DF72F0-F985-286F-2A33-389E187DB271}.Release|x86.Build.0 = Release|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Debug|x64.Build.0 = Debug|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Debug|x86.Build.0 = Debug|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Release|x64.ActiveCfg = Release|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Release|x64.Build.0 = Release|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Release|x86.ActiveCfg = Release|Any CPU
+		{E1100044-B372-2BEA-232B-43D2C4854AD3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -681,6 +697,8 @@ Global
 		{95BB6533-FEFE-4669-ACA5-ED948B60549F} = {55A27B03-3F07-4846-9AA7-22CA8360214F}
 		{5DD4C333-F286-487D-857C-03620CEC45EB} = {55A27B03-3F07-4846-9AA7-22CA8360214F}
 		{C0DF72F0-F985-286F-2A33-389E187DB271} = {55A27B03-3F07-4846-9AA7-22CA8360214F}
+		{7BAB7722-7625-49BE-A3F4-4ECED2C6B029} = {EF028631-ED42-4BCC-9277-1973E40B5EE6}
+		{E1100044-B372-2BEA-232B-43D2C4854AD3} = {7BAB7722-7625-49BE-A3F4-4ECED2C6B029}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77A83098-39B9-4A8F-A584-1CBAB34C0F7D}
